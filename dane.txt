@@ -1,3 +1,4 @@
 d
 2 linia
 :wq
+4 linia
